@@ -24,7 +24,7 @@ function App() {
 
   return (
     <div className="min-h-screen bg-gradient-to-br from-purple-100 to-blue-100 flex flex-col items-center py-10 px-4">
-      <h1 className="text-4xl font-bold mb-6 text-purple-700 drop-shadow">📅 My Daily Schedule</h1>
+      <h1 className="text-4xl font-bold mb-6 text-purple-700 drop-shadow">📅 Yours Daily Schedule</h1>
 
       <div className="bg-white p-6 rounded-2xl shadow-lg w-full max-w-xl mb-8">
         <div className="flex flex-col md:flex-row gap-4">
